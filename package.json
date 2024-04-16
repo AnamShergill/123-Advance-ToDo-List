@@ -1,0 +1,22 @@
+{
+  "name": "123-advance-to-do-list",
+  "version": "1.0.0",
+  "description": "A CLI based TO-DO-LIST application with Node.js,TypeScript,Inquirer and Chalk",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/jquery": "^3.5.29"
+  }
+}
